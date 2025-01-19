@@ -1,0 +1,20 @@
+19:51:43 - DRIVER=SQL Server;Server=127.0.0.1;DATABASE=MuOnline;UID=sa;PWD=Muonline@123;
+19:55:47 - DRIVER=SQL Server;Server=127.0.0.1;DATABASE=MuOnline;UID=sa;PWD=Muonline@123;
+19:58:14 - DRIVER=SQL Server;Server=127.0.0.1;DATABASE=MuOnline;UID=sa;PWD=Muonline@123;
+19:59:21 - DRIVER=SQL Server;Server=127.0.0.1;DATABASE=MuOnline;UID=sa;PWD=Muonline@123;
+20:00:12 - DRIVER=SQL Server;Server=127.0.0.1;DATABASE=MuOnline;UID=sa;PWD=Muonline@123;
+20:00:56 - DRIVER=SQL Server;Server=127.0.0.1;DATABASE=MuOnline;UID=sa;PWD=Muonline@123;
+20:01:13 - DRIVER=SQL Server;Server=127.0.0.1;DATABASE=MuOnline;UID=sa;PWD=Muonline@123;
+20:05:01 - DRIVER=SQL Server;Server=127.0.0.1;DATABASE=MuOnline;UID=sa;PWD=Muonline@123;
+20:13:27 - DRIVER=SQL Server;Server=127.0.0.1;DATABASE=MuOnline;UID=sa;PWD=Muonline@123;
+20:14:55 - SELECT Vip FROM MEMB_INFO WHERE memb___id = 'admin'
+20:14:57 - SELECT Vip FROM MEMB_INFO WHERE memb___id = 'admin'
+20:15:00 - SELECT Vip FROM MEMB_INFO WHERE memb___id = 'supremo'
+20:16:34 - SELECT Vip FROM MEMB_INFO WHERE memb___id = 'admin'
+20:16:37 - SELECT Vip FROM MEMB_INFO WHERE memb___id = 'supremo'
+20:16:43 - SELECT Resets from Character WHERE Name = 'Supremo'
+20:16:43 - SELECT Vip FROM MEMB_INFO WHERE memb___id = 'supremo'
+20:16:43 - SELECT Bonus FROM MEMB_INFO WHERE memb___id = 'supremo'
+20:16:43 - [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Bonus'.
+20:16:43 - SELECT Bless, Soul, Life, Chaos, Creation, Guardian FROM MEMB_INFO WHERE memb___id = 'supremo'
+20:16:43 - [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Soul'.emb___id = 'supremo'

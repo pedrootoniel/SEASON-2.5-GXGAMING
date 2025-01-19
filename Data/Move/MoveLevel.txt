@@ -1,0 +1,25 @@
+//Level	Map	X1	Y1	X2	Y2	Name Map
+50	0	1	1	255	255	//Lorencia
+50	2	1	1	255	255	//Devias
+50	3	1	1	255	255	//Noria
+130	8	1	1	255	255	//Tarkan
+200	6	1	1	255	255	//Stadium
+140	7	1	1	255	255	//Atlans
+160	10	1	1	255	255	//Icarus
+50	1	1	1	255	255	//Dungeon
+80	4	1	1	255	255	//LostTower
+130	33	1	1	255	255	//Aida
+180	34	1	1	255	255	//CryWolf
+150	30	1	1	255	255	//Valley of Loren
+150	37	1	1	255	255	//Kanturu
+220	38	1	1	255	255	//Kanturu Remain
+220	45	1	1	255	255	//Illusion Temple
+271	46	1	1	255	255	//Illusion Temple
+321	47	1	1	255	255	//Illusion Temple
+351	48	1	1	255	255	//Illusion Temple
+381	49	1	1	255	255	//Illusion Temple
+400	50	1	1	255	255	//Illusion Temple
+350	41	1	1	255	255	//Illusion Temple
+350	42	1	1	255	255	//Illusion Temple
+400	51	1	1	255	255	//Elbeland
+400	56	1	1	255	255	//Swamp of Calmeness

@@ -1,0 +1,13 @@
+11:42:33 - DRIVER=SQL Server;Server=127.0.0.1;DATABASE=MuOnline;UID=sa;PWD=Muonline@123;
+11:42:56 - SELECT Vip FROM MEMB_INFO WHERE memb___id = 'supremo'
+11:43:10 - SELECT Resets from Character WHERE Name = 'Supremo'
+11:43:10 - SELECT Vip FROM MEMB_INFO WHERE memb___id = 'supremo'
+11:43:10 - SELECT Bonus FROM MEMB_INFO WHERE memb___id = 'supremo'
+11:43:10 - [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Bonus'.
+11:43:10 - SELECT Bless, Soul, Life, Chaos, Creation, Guardian FROM MEMB_INFO WHERE memb___id = 'supremo'
+11:43:10 - [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Soul'.emb___id = 'supremo'
+11:43:18 - SELECT Resets from Character WHERE Name = 'Supremo'
+11:43:18 - SELECT Vip FROM MEMB_INFO WHERE memb___id = 'supremo'
+11:43:18 - SELECT Bonus FROM MEMB_INFO WHERE memb___id = 'supremo'
+11:43:18 - SELECT Bless, Soul, Life, Chaos, Creation, Guardian FROM MEMB_INFO WHERE memb___id = 'supremo'
+11:43:18 - [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Bless'.mb___id = 'supremo'
